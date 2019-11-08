@@ -4,7 +4,10 @@
 
 ```
 $ npm install
-$ npm run dev
+$ npm run analyze
 ```
 
-Go to http://localhost:3000 in the browser
+The following 2 files should be automatically opened in the browser:
+
+- `.next/analyze/client.html`
+- `.next/analyze/server.html`
